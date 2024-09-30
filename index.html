@@ -1,0 +1,38 @@
+<head>
+ <meta charset="utf-8">
+ <title>Michał Zamojski </title>
+</head>
+<body bgcolor="white">
+Michał Zamojski
+<p align="right"> <font color="red" size="7" face="Arial"> Michał </font> </p> <br><p align="right"> <font color="red" size="6" face="Arial"> Michał </font> </p> <br>
+<p align="right"> <font color="red" size="5" face="Arial"> Michał </font> </p> <br><p align="right"> <font color="red" size="4" face="Arial"> Michał </font> </p> <br>
+<p align="right"> <font color="red" size="3" face="Arial"> Michał </font> </p> <br><p align="right"> <font color="red" size="2" face="Arial"> Michał </font> </p> <br>
+<p align="right"> <font color="red" size="1" face="Arial"> Michał </font> </p> <br>
+ <h1> Zamojski </h1><br><h2> Zamojski </h1><br><h3> Zamojski </h1><br><h4> Zamojski </h1><br><h5> Zamojski </h1><br><h6> Zamojski </h1><br>
+<p align="right"> <font color="red" size="5" face="ALGERIAN"> ;) uśmiech z przymrużeniem oka </font> </p> <br>
+<p align="right"> <font color="green" size="8" face="Calibri"> :D szeroki uśmiech </font> </p> <br>
+<p align="right"> <font color="brown" size="2" face="PERMANENT MARKER"> :* pocałunek </font> </p> <br>
+<p align="right"> <font color="orange" size="3" face="MS GHOTIC"> :| niezdecydowanie, brak emocji </font> </p> <br>
+<p align="right"> <font color="yellow" size="10" face="Verdana, sans-serif"> :O zdziwienie </font> </p> <br>
+<p align="right"> <font color="dark-pink" size="6" face="Courier Sans New Comic"> XD śmiech </font> </p> <br>
+
+<p align="right"> <font color="purple" size="4" face="Courier New"> <u> <strike> 80-152 </strike> <b >Gdańsk </b> <i>ul.Piekarnicza </i> 150/24 </u> </p> <br>
+<p align="left"> <font color="yellow" size="7" face="Arial"> Ulubiny aktor:Dwayne Johnson </font> </p> <br>
+<center><p> <font color="lite-green" size="10" face="Times New Roman"> Ulubiony zespół:AC/DC </font> </p> <br></center>
+<p align="left"> <font color="pink" size="1" face="Verdana"> Data urodzenia:12 września 2000 </font> </p> <br>
+<p align="left"> <font color="black" size="3" face="Arial"> H<sub>2</sub>SO<sub>4</sub> </font> </p> <br>
+<p align="left"> <font color="black" size="3" face="Arial"> x*x=x<sup>2</sup> </font> </p> <br>
+
+
+
+<fieldset style="background-color: silver;"> 
+<HR SIZE=10 color="lightblue" ALIGN=CENTER NOSHADE> 
+<H1 ALIGN=left> Kawał o blondynce </H1> 
+<legend>Blondynka w komisie</legend> 
+   Przychodzi blondynka do komisu i m&ograve;wi:  <br />
+– &bdquo;dzień dobry panie komisarzu&rdquo;       <br />  
+<HR SIZE=10 color="lightpink" ALIGN=CENTER NOSHADE> 
+<META name="Author" content="Michał Zamojski" />     
+</fieldset> 
+</html>
+</body>
