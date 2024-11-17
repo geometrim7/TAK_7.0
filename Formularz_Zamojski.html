@@ -5,7 +5,167 @@
  <meta charset="utf-8">
  <title> Formularz </title>
 </head>
-<body>
- </body>
+<body bgcolor="#FFCC00">
+<center><h1> FORMULARZ TRENINGU Z TRENEREM</h1></center>
+<form enctype="text/plain" action="mailto:mkryniew@wp.pl" subject="formularz_dane" method="Post">
+ <TABLE>
+
+
+<TR height="100">
+ <TD width="500">
+ <b>Imię</b> &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp
+&nbsp
+&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<input name="imie" size="22">
+ <br><br>
+ <b>Drugie imię</b>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp
+&nbsp &nbsp &nbsp &nbsp <input value="Brak" name="drugie" size="22">
+ <br><br>
+ <b>Nazwa <br> użytkownika </b> &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp
+&nbsp &nbsp &nbsp <input name="nazwa" maxlength="12" size="22">
+ <br><br>
+ <b> Nazwisko </b>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp<input name="nazwisko" size="22"><nobr>
+<br><br>
+ <b> Hasło </b>&nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp
+&nbsp &nbsp &nbsp &nbsp <input type="password" name="hasło" size="22">
+ <br><br>
+ </TD>
+<TD width="300" >
+<left><font size="2"><b>Klub:</b></font></center>
+<select>
+ <option value=""></option>
+ <option value="Marina Beach Gym">Marina Beach Gym</option>
+ <option value="Magnum">Magnum</option>
+ <option value="EnergyClub">EnergyClub</option>
+ <option value="CityFit">CityFit</option>
+ </select>
+<br><br><br><br><br><br><br><br><br><br><br>
+ </TD>
+
+<TD width="300" >
+<left><font size="2"><b>Miasto:</b></font></center>
+ <center> <select>
+ <option value="Gdańsk">Gdańsk</option>
+ <option value="Sopot">Sopot</option>
+ <option value="Gdynia">Gdynia</option>
+ <option value="Tczew">Tczew</option>
+ <option value="Kartuzy">Kartuzy</option>
+ </select> </center>
+<br><br><br><br><br><br><br><br><br><br>
+ </TD>
+
+<TD width="300" >
+<form action="">
+	<p><em>Jak chcesz się <br> umawiać na trening?</em></p>
+	<div>
+		<input type="checkbox" name="" value="Przez trlefon" />Przez trlefon<br/>
+		<input type="checkbox" name="" value="Przez messa" />Przez messa<br/>
+		<input type="checkbox" name="" value="Przez aplikację" />Przez aplikację<br/>
+	</div>
+</form>
+<br><br><br><br>
+</TD>
+</TR>
+<TD>
+<br><br><br><br><br><br><br><br><br><br>
+<nobr>Ile kiedyś ćwiczyłeś/łaś?</nobr>
+<br><br>
+<input type="radio" name="pyt1" value="wcale"> wcale
+
+<input type="radio" name="pyt2" value="rzadko"> rzadko
+
+<input type="radio" checked="checked" name="pyt3" value="trochę"> trochę
+
+<input type="radio" name="pyt4" value="często"> często
+
+<br><br>
+<nobr>W jakim jesteś przedziale wiekowym?</nobr><br>
+<input type="radio" name="pyt5" value="0-18"> 0-18
+
+<input type="radio" name="pyt6" value="18-30"> 18-30
+
+<input type="radio" name="pyt7" value="30-50"> 30-50
+
+<input type="radio" name="pyt8" value="50-60"> 50-60
+
+<input type="radio" name="pyt9" value="60+"> 60+
+
+<form action="">
+	<p><em>Czas trening?</em></p>
+	<div>
+		<input type="checkbox" name="" value="30 min." />30 min.
+		<input type="checkbox" name="" value="1 godz." />1 godz.
+		<input type="checkbox" name="" value="1,30 godz." />1,30 godz.
+                <input type="checkbox" name="" value="2 godz." />2 godz.
+                <input type="checkbox" name="" value="2 godz.+" />2 godz.+
+	</div>
+</form>
+
+ </TD>
+<td>
+<TD width="300" >
+<left><font size="2"><b>Miasto:</b></font></left>
+ <center> <select>
+ <option value="Gdańsk">Gdańsk</option>
+ <option value="Sopot">Sopot</option>
+ <option value="Gdynia">Gdynia</option>
+ <option value="Tczew">Tczew</option>
+ <option value="Kartuzy">Kartuzy</option>
+ </select> </center>
+<br><br><br><br><br><br><br>
+</TD>
+
+<TD width="300" >
+<form action="">
+	<p><em>W jakie dni chcesz trenować?</em></p>
+	<div>
+		<input type="checkbox" name="" value="poniedziałek/<br> wtorek" />poniedziałek/<br> wtorek<br/>
+		<input type="checkbox" name="" value="środa/<br> czwartek" />środa/<br> czwartek<br/>
+		<input type="checkbox" name="" value="piątek/<br> sobota" />piątek/<br> sobota<br/>
+                <input type="checkbox" name="" value="niediala" />niediala<br/>
+	</div>
+</form>
+
+
+<form action="">
+        <p><em>Jakiej jesteś płci?</em></p>
+	<p>
+		<input type="radio" name="plec" value="męszczyzna" />
+		męszczyzna
+	</p>
+	<p>
+		<input type="radio" name="plec" value="kobieta" />
+		kobieta
+	</p>
+        <p>
+		<input type="radio" name="plec" value="nie chcę podawać" />
+		nie chcę podawać
+	</p>
+</form>
+
+<TR height="200">
+ <TD>
+ <br> <br> <b> Napisz swoje oczekiwania co do trening.</b> <textarea cols="50" rows="4"></textarea> </TD>
+ <TD></TD>
+ <TD> <form>
+	<p><em>Kliknij przyciski</em></p>
+	<div>
+		<nobr><input type="button" value="INFO" onclick="alert('Siłownia to wspaniałe miejsce')" /style="height:50px; width:150px">
+	</div>
+        <div>
+		<nobr><input type="button" value="NIESPODZIANKA" onclick="alert('siła da ci odpowiedź')" style="height:50px; width:150px">
+	</div>
+</form>
+ </TD>
+ </TR>
+<TR height="100">
+ <TD><nobr><input type="reset" value="CZYŚĆ" style="height:80px; width:150px">
+</TD>
+ <TD> <input type="submit" value"=WYŚLIJ" style="height:80px; width:150px"> </TD>
+ </TR>
+ </TABLE>
+</form>
+</body>
+
+
 <A HREF="index.html"> wróć </A>
 </html>
